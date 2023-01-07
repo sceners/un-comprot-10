@@ -1,6 +1,6 @@
 # un-comprot-10
 
-https://defacto2.net/f/a925bd0?
+https://defacto2.net/f/a925bd0
 
 ```
 ╔══════════════════════════════╗
