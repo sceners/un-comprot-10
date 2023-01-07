@@ -1,4 +1,4 @@
-# un-comprot-10
+# COM Protector v1.0 unpacker by Delirium Tremens Group
 
 https://defacto2.net/f/a925bd0
 
